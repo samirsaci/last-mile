@@ -6,8 +6,8 @@
   <img align="center" src="https://github.com/samirsaci/samirsaci.github.io/blob/main/static/img/Kuaidi.png">
 </p>
 
-### Medium Article
-In this [Medium Article](https://towardsdatascience.com/optimize-workforce-planning-using-linear-programming-with-python-47a0b5f89a6f), we will build a  a solution to optimize 
+### Article
+In this [Article](https://www.samirsaci.com/optimize-e-commerce-last-mile-delivery-with-python/), we will build a  a solution to optimize 
 the last-mile delivery from these centres to reduce the costs and ensure a uniform distribution of the workload to each driver.
 
 ![This is an image](https://miro.medium.com/max/700/1*0bDGnC8nRRTQCdZTOKOKOQ.png)
