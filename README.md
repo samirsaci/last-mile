@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img align="center" src="https://github.com/samirsaci/samirsaci.github.io/blob/main/static/img/Kuaidi.png">
+  <img align="center" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*da1Nzz8l5DgRVGvDd9d3nA.png">
 </p>
 
 ### Article
